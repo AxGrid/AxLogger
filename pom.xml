@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.axgrid.logger</groupId>
-    <artifactId>AxLogging</artifactId>
+    <artifactId>AxLogger</artifactId>
     <version>1.0</version>
 
 
